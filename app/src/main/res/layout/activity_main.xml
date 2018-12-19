@@ -6,7 +6,7 @@
     <data>
         <variable
             name="presenter"
-            type="com.weather.go_jek.go_jek_assignment.presenter.MainActivityPresenter"/>
+            type="com.weather.com.location.presenter.MainActivityPresenter"/>
     </data>
 <RelativeLayout
     android:id="@+id/mainactivity_container"
